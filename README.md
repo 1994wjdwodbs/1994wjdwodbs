@@ -5,11 +5,19 @@
 
 
 ### Email ✉️ : 16jwodbs@naver.com
-### GitHub 💬 : github.com/1994wjdwodbs
+### GitHub 💬 : https://github.com/1994wjdwodbs
 
 ## Category
 
+---
 
+### C/C++
+
+---
+
+### JAVA
+
+---
 
 ## GitHub Stat and Languages
 <p>
