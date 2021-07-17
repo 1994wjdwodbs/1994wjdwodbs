@@ -12,9 +12,7 @@
 
 
 ## GitHub Stat and Languages
-<p align='center'>
-  <a href="https://github.com/1994wjdwodbs">
-    <img src="https://github-readme-stats.vercel.app/api?username=1994wjdwodbs"/><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1994wjdwodbs"/><br/>
-  </a>
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=1994wjdwodbs"><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1994wjdwodbs"><br/>
 </p>
