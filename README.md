@@ -3,6 +3,12 @@
 ## Profile
 
 <img src="images/animated-webp-supported.webp"/>
+<picture>
+  <source srcset="images/animated-webp-supported.webp" type="image/webp">
+  <source srcset="images/unsupported.png" type="image/png"> 
+  <img src="unsupported.jpg">
+</picture>
+
 
 ### Email ✉️ : 16jwodbs@naver.com
 ### GitHub 💬 : https://github.com/1994wjdwodbs
