@@ -3,7 +3,7 @@
 ## Profile
 
 <picture>
-  <source srcset="some-image.webp" type="image/webp" />
+  <source srcset="images/animated-webp-supported.webp" type="image/webp" />
   <img src="other-image.jpg" />
 </picture>
 
