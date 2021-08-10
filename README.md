@@ -4,7 +4,6 @@
 
 <picture>
   <source srcset="images/animated-webp-supported.webp" type="image/webp" />
-  <img src="other-image.jpg" />
 </picture>
 
 ### Email ✉️ : 16jwodbs@naver.com
