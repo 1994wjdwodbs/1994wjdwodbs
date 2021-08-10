@@ -2,7 +2,7 @@
 
 ## Profile
 
-<img src=""images/animated-webp-supported.webp" />
+<img src="images/animated-webp-supported.webp"/>
 
 ### Email ✉️ : 16jwodbs@naver.com
 ### GitHub 💬 : https://github.com/1994wjdwodbs
