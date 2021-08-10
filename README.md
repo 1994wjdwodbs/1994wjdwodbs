@@ -2,7 +2,6 @@
 
 ## Profile
 
-<img src="images/animated-webp-supported.webp"/>
 <picture>
   <source srcset="images/animated-webp-supported.webp" type="image/webp">
   <source srcset="images/unsupported.png" type="image/png"> 
