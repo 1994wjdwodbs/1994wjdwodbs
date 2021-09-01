@@ -36,6 +36,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1994wjdwodbs"><br/>
 </p>
 
-// 사용 언어 추가
+## Language Stack
 
 
